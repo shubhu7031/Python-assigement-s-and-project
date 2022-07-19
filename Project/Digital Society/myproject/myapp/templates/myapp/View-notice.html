@@ -1,0 +1,16 @@
+﻿{% extends 'myapp/index.html' %}   
+{% block content %}
+<section class="content home">
+    <br><br><br><br><br><br>
+    {% for i in show_notice %}
+    <div class="card" style="width: 18rem;">
+        <div class="card-body">
+          <h5 class="card-title">{{i.notice_title}}</h5>
+          <h6 class="card-subtitle mb-2 text-muted">{{i.user_id.first}}</h6>
+          <p class="card-text">{{i.notice_content}}</p>
+        </div>
+    </div>
+    {% endfor %}
+</section>
+{% endblock %}
+               

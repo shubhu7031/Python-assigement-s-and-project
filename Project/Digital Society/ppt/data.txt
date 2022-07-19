@@ -1,0 +1,78 @@
+presentation content 
+
+project title::
+
+Digital Society 
+
+
+module 1::
+ project title ::
+
+
+technlogies used in project ::
+1) Front-End 
+---->HTML ,CSS Bootstrap
+2) back-End 
+--------->Python 
+3) Database
+---------->MySQL
+
+
+
+Project Overview
+
+A digital Society is the WebApp which is built on Python Using a Django Framework
+
+A Digital Society is built on vision to Solve the problems of local Society's
+
+Exisiting Application:::::::::::::::::::::
+My GATE (Android Application)
+
+Project Details ::
+
+::A project contain's total of 3 modules
+1)Chairman
+2)Society Member
+3)Watchaman
+
+::1)Chairman 
+-----------
+A chairman is a kind of Super user of our Webapp 
+it has all the prime access of the website 
+----- Add Notice
+------Remove and add access of all other user's
+-------Remove and add the details of  the Society member
+-------Assign the Role of the Member
+
+::2) Society Member
+a Society member has a some of the primary Access of the Pannel
+-------A member can update there details
+---------A personalize profile page
+---------Society member can Raise a Issue
+---------Can Call the emergency in case of Safety (Watchman)
+
+::3)Watchman
+A semi Primary access to the website
+----Can Raise a ticket if any outsider want to visit Society 
+-----Can Raise a normal Issue of the Society 
+------Have a Emergency access to the window
+
+::A Class DIAGRAM
+::A ER DIAGRAM 
+
+::Advantages::
+A one more Step toward the Safety 
+Have a one access to the site
+
+::Disadvantages::
+A PC Required
+A Web APP
+
+::Future Scope::
+Extends the web from one Society to another Society 
+Make A UI more User Friendly 
+::::::::::::::::::::::::::
+
+:::: THANKS Any Questions::::::::::
+
+ 
