@@ -1,0 +1,17 @@
+database : collection of tables 
+
+tables : collection of data 
+
+	table which is contain row and columns 
+
+mysql 
+
+host : localhost 
+user : root 
+password : ""
+-------------------------------------
+create database <databasename>
+
+create table <tablename> (id integer primary key,
+			 firstname varchar(20)
+			)

@@ -1,0 +1,12 @@
+1)CREATE DATABASE error 
+2)CREATE TABLE error(cust_id int PRIMARY Key AUTO_INCREMENT,cust_name varchar(50),cust_email varchar(50))
+3)ALTER TABLE customer ADD(Cust_addess varchar(50))
+4) ALTER TABLE customer MODIFY Cust_addess CHARACTER
+5)INSERT INTO customer(cust_name,cust_email,Cust_addess) VALUES("Shubham","smevada777@gmail.com","chandkheda")
+INSERT into customer(cust_name,cust_email,Cust_addess)VALUES("single-shubham","srushti@gmail.com","Baroda")
+,("double-shubham","double@gmail.com","NULL")
+
+
+DELETE from customer WHERE Cust_id=3
+TRUNCATE TABLE customer
+DROP TABLE customer
